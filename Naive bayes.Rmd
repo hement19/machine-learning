@@ -1,6 +1,6 @@
 ---
 title: "Naive Bayes"
-author: "Ben"
+author: "HEMENt"
 date: "30/09/2020"
 output: html_document
 ---
